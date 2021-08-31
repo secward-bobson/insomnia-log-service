@@ -1,0 +1,23 @@
+_id: req_4f1a3cde19154c49bc7e8b302e331bf7
+type: Request
+parentId: wrk_94902779a8d14917904b7ed3fb753235
+modified: 1630375706308
+created: 1630375107483
+url: 172.16.68.150:33332/approval/filter
+name: My Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbnRyeVVVSUQiOiI1NDE0MDhiMi01MjQ1LTEwM2ItOGI4Yi1lMWY1Mjc3NjFmM2UiLCJhZG1pbklkIjozLCJpYXQiOjE2MzAzNzUxNjIsImV4cCI6MTYzMDU0Nzk2Mn0.PWFbbtX7z4BjT8lzA8xbRXEJ4LxsMyqyIX8bKFuZIKw
+metaSortKey: -1630375107483
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
